@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    line-height: 1.6em;
+    overflow: auto;
+    font-size: 20px;
+}
+
+#head{
+   background-color:#ffa31a;
+   color: black;
+   
+   position: relative;
+}
+#heading{
+    text-align: center;
+}
+#navbar{
+    background-color:#808080;
+    color: blue;
+    padding: 0px;
+    margin-bottom: 0;
+
+}
+.page{
+    margin: 0;
+    overflow: hidden;
+}
+#navbar li{
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    padding-right: 10px;
+    
+    padding: 10px;
+    margin-right: 10px;
+    padding-bottom: 15px;
+    
+}
+ a{
+  text-decoration: none;
+  color: #fff;
+  padding-right: 10px;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+#navbar ul{
+    margin-bottom: 0px;
+
+    padding: 2px;
+    padding-bottom: 10px;
+}
+
+#main{
+    float: left ;
+    width: 60%;
+    box-sizing: border-box;
+}
+#pic{
+    float: right ;
+    width: 40%;
+    box-sizing: border-box;
+
+}
+img{
+    width:500px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+#main2{
+    float: left;
+    width: 60%;
+    box-sizing: border-box;
+}
+#logo img{
+    width: 5em;
+    height: 4em;
+
+}
+#head img{
+    position: absolute;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-top: 1px;
+}
+h2{
+    color: #ffa31a;
+}
+p{
+    color: #fff;
+}
+a:visited{
+    background-color: green;
+}
+a:hover{
+    color:	#292929;
+
+}
+a:active{
+    color: 	#ffa31a;;
+}

@@ -1,0 +1,280 @@
+body{
+    background-color: black;
+    margin: 0;
+    
+}
+.heading{
+    background-color:#ffa31a ;
+    overflow: auto;
+    text-align: center;
+    position: relative;
+}
+#logo img{
+    width: 5em;
+    height: 4em;
+
+}
+.heading img{
+    position: absolute;
+   top: 6px;
+   left: 3px;
+    
+}
+.navbar{
+    background-color: #808080;
+    overflow: hidden;
+    
+}
+.navbar li{
+    margin: 0;
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+.index{
+    position: relative;
+    margin: 0;
+    height: 500px;
+    overflow: hidden;
+   margin:0;
+   align-items: center;
+   width: 100%;
+}
+.index h1{
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+    top :100px;
+    left: 45%;
+    
+}
+.index p{ 
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+    width: 40%;
+    left: 30%;
+    top: 140px;
+    font-size: 20px;
+}
+.videocon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 10px;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+/*--.navbar a:visited{
+    background-color: green;
+}--*/
+.navbar a:hover{
+    color:	#292929;
+
+}
+.navbar a:active{
+    color: 	#ffa31a;
+}
+.heading{
+    position: relative;
+}
+.mainclass{
+    width: 1000px;
+    /*--border: white;--*/
+    border-style: solid;
+    margin-left: 200px;
+    position: relative;
+    margin-top: 10px;
+    
+    
+}
+#beer {
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 0px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#beer img{
+    height: 300px;
+    width: 300px;
+
+}
+.tittle{
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 10px;
+   
+}
+.learn{
+    padding-left: 20px;
+    margin-top: 20px;
+    list-style-type: symbols();
+
+}
+.tittle a{
+    font-size: 30px;
+    
+
+}
+
+li{
+    list-style: none;
+}
+#Beluga img{
+    height: 300px;
+    width: 300px;
+
+}
+#fox img{
+    height: 300px;
+    width: 300px;
+
+}
+#fox{
+    
+    background-color: #292929;
+    
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#Beluga {
+    
+    background-color: #292929;
+    
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+.mainclass2{
+    width: 1000px;
+   /*-- border: white;--*/
+    border-style: solid;
+    margin-left: 200px;
+    position: relative;
+    margin-top: 10px;
+    
+}
+#rihno {
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 0px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#rihno img{
+    height: 300px;
+    width: 300px;
+
+}
+#wolf {
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 350px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#wolf img{
+    height: 300px;
+    width: 300px;
+
+}
+#giraffe {
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 350px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#giraffe img{
+    height: 300px;
+    width: 300px;
+
+}
+#cheetha{
+    background-color: #292929;
+    
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#cheetha img{
+    height: 300px;
+    width: 300px;
+}
+#lion {
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 350px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#lion img{
+    height: 300px;
+    width: 300px;
+
+}
+#tiger{
+    position: absolute;
+    background-color: #292929;
+    top: 0;
+    right: 0px;
+    height: 400px;
+    width: 300px;
+    padding: 0;
+}
+#tiger img{
+    height: 300px;
+    width: 300px;
+
+}
+.tittle a{
+    text-decoration: none;
+    color: #ffa31a;
+    padding-right: 10px;
+    
+    padding-bottom: 10px;
+  }
+
+.tittle a:hover{
+    color:	#fff;
+
+}
+.tittle a:active{
+    color: 	#808080;
+}
+.learn a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 10px;
+    
+    padding-bottom: 10px;
+  }
+
+.learn a:hover{
+    color:	#ffa31a;
+
+}
+.learn a:active{
+    color: #808080;
+}
